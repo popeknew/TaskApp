@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e0e0e0</color>
+    <color name="colorPrimaryDark">#aeaeae</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="status_open_background_color">#c5e1a5</color>
+    <color name="status_traveling_background_color">#fdd835</color>
+    <color name="status_working_background_color">#f9a825</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+
+    <string name="row_task_change_status_button_start_travel_text">START TRAVEL</string>
+    <string name="row_task_change_status_button_start_work_text">START WORK</string>
+    <string name="row_task_change_status_button_stop_text">STOP</string>
+    <string name="row_task_id_label">ID: </string>
+    <string name="row_task_status_label">Status: </string>
+</resources>
